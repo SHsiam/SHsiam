@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**SHsiam/SHsiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Siam from Bangladesh. I do android app development. I really enjoy to learning languges and frameworks like Flutter.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shsiam&theme=dark&show_icons=true)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
