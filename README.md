@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Siam from Bangladesh. I do android app development. I really enjoy to learning languges and frameworks like Flutter.
+I'm Siam from Bangladesh. I do android app development. I really enjoy to learning languges and frameworks like Flutter. You can check out my linkdin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shsiam&theme=dark&show_icons=true)
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
