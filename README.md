@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm SH Siam</h1>
-<h3 align="center">A passionate Android developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **stylzmedia**
+- 🤝 I’m looking for help with **MERN Stack Development**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Flutter**
-
-- 🤝 I’m looking for help with **Android App Development**
-
-- 📝 I regularly write articles on [https://shandroid56.blogspot.com/](https://shandroid56.blogspot.com/)
-
-- 💬 Ask me about **Java, Dart, Android, Flutter.**
+- 💬 Ask me about **Java, Android, React, JS, Mongodb, NodeJS, Express.**
 
 - 📫 How to reach me **mdshiam4@gmail.com**
 
