@@ -16,8 +16,8 @@
 - 💬 Ask me about **React, Java Script, MongoDB, Node.js, Express.js, NextJS Android and Java**
 
 - 📫 How to reach me **mdshiam4@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V-r1nzGSY-aG4o2AbsoV8I4ZbLjx24wM/view?usp=drive_link](https://drive.google.com/file/d/1V-r1nzGSY-aG4o2AbsoV8I4ZbLjx24wM/view?usp=drive_link)
+- [Portfolio](https://lovely-palmier-ff30b9.netlify.app/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10sbYoifzDfWyTHC5pXqffsrFPC_MCwpT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
