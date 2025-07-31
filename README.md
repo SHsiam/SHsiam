@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Easy Shop**
 
-- 👯 I’m looking to collaborate on [Sports Academy](https://sports-academy-dfce9.web.app/)
+- 👯 I’m looking to collaborate on [Sports Academy](https://sports-academy-dfce9.web.app/) and [MeetPlanr](https://meetplanr.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SHsiam](https://github.com/SHsiam)
 
